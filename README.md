@@ -5,7 +5,7 @@ public class ScannerDemo1
 { 
     public static void main(String[] args) 
     { 
-    	Scanner scanner = new Scanner("1 2 3 4 5");
+    	Scanner scanner = new Scanner("H E L L O");
     	
     	 
     	while (scanner.hasNext()) {
